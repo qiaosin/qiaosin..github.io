@@ -1,0 +1,1 @@
+{"version":3,"file":"List-c6f8d879.js","sources":["../../src/views/main/history/List.vue"],"sourcesContent":["\n<script setup lang=\"ts\">\n</script>\n<template>\n  <div>History List</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"4DAIE,SAAAA,EAAAC,EAAAC,EAAA"}

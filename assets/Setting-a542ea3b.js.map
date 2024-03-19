@@ -1,0 +1,1 @@
+{"version":3,"file":"Setting-a542ea3b.js","sources":["../../src/views/main/Setting.vue"],"sourcesContent":["<script setup lang=\"ts\">\n</script>\n<template>\n  <div>Setting Page</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"4DAGE,SAAAA,EAAAC,EAAAC,EAAA"}
