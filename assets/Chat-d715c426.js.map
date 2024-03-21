@@ -1,1 +1,0 @@
-{"version":3,"file":"Chat-d715c426.js","sources":["../../src/views/main/Chat.vue"],"sourcesContent":["\n<script setup lang=\"ts\">\n</script>\n<template>\n  <div>chat 界面</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEAIE,SAAAA,EAAAC,EAAAC,EAAA"}

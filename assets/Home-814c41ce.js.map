@@ -1,0 +1,1 @@
+{"version":3,"file":"Home-814c41ce.js","sources":["../../src/views/main/Home.vue"],"sourcesContent":["<script setup lang=\"ts\"></script>\n<template>\n  <div>主菜单</div>\n</template>\n<style lang=\"scss\" scoped></style>\n"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEAEE,SAAAA,EAAAC,EAAAC,EAAA"}

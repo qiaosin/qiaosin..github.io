@@ -1,0 +1,1 @@
+{"version":3,"file":"Contact-bcdd4224.js","sources":["../../src/views/main/Contact.vue"],"sourcesContent":["<script setup lang=\"ts\">\n</script>\n<template>\n  <div>联系我们</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEAGE,SAAAA,EAAAC,EAAAC,EAAA"}

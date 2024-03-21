@@ -1,0 +1,2 @@
+import{d as i,s as e,o as n,c,v as t,x as a,_}from"./index-09328375.js";const d={class:"info"},r={class:"title"},u={class:"detail"},l=i({__name:"Info",setup(p){const s=e("Ahab"),o=e("Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.");return(v,f)=>(n(),c("div",d,[t("div",r,a(s.value),1),t("div",u,a(o.value),1)]))}});const x=_(l,[["__scopeId","data-v-dbcc76e6"]]);export{x as I};
+//# sourceMappingURL=Info-01055cda.js.map

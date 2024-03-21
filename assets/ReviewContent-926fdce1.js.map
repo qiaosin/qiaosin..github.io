@@ -1,1 +1,0 @@
-{"version":3,"file":"ReviewContent-926fdce1.js","sources":["../../src/views/main/story/ReviewContent.vue"],"sourcesContent":["<script setup lang=\"ts\">\n</script>\n<template>\n  <div>Review Content</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEAGE,SAAAA,EAAAC,EAAAC,EAAA"}

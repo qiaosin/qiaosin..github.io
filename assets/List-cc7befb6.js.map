@@ -1,1 +1,0 @@
-{"version":3,"file":"List-cc7befb6.js","sources":["../../src/views/admin/myStory/List.vue"],"sourcesContent":["\n<script setup lang=\"ts\">\n</script>\n<template>\n  <div>Story List</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"4DAIE,SAAAA,EAAAC,EAAAC,EAAA"}

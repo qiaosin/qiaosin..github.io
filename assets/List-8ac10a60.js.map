@@ -1,0 +1,1 @@
+{"version":3,"file":"List-8ac10a60.js","sources":["../../src/views/admin/myChar/List.vue"],"sourcesContent":["\n<script setup lang=\"ts\">\n</script>\n<template>\n  <div>Char List</div>\n</template>\n<style lang=\"scss\" scoped>\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEAIE,SAAAA,EAAAC,EAAAC,EAAA"}

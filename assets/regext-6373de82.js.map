@@ -1,0 +1,1 @@
+{"version":3,"file":"regext-6373de82.js","sources":["../../src/utils/regext.ts"],"sourcesContent":["export default {\n  email: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,}$/,\n  password: /^(?![a-zA-Z]+$)(?!\\d+$)(?![^\\da-zA-Z\\s]+$).{6,12}$/,\n}\n"],"names":["regExt"],"mappings":"AAAA,MAAeA,EAAA,CACb,MAAO,kDACP,SAAU,oDACZ"}

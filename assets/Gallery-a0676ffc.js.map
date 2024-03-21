@@ -1,0 +1,1 @@
+{"version":3,"file":"Gallery-a0676ffc.js","sources":["../../src/views/main/Gallery.vue"],"sourcesContent":["<script setup lang=\"ts\"></script>\n<template>\n  <div>Gallery Page</div>\n</template>\n<style lang=\"scss\" scoped></style>\n"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iEAEE,SAAAA,EAAAC,EAAAC,EAAA"}
